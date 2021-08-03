@@ -11,7 +11,7 @@ body.about{
 }
 
 .about h3{
-    color: #44a391;
+    color: var(--colorVerde);
     font-size: 24px;
 }
 
